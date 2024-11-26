@@ -19,8 +19,14 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia Informática c
 
 ## Projetos
 
-### [Sistema de Gestão de Custos](link-do-seu-projeto)
+### [Sistema de Gestão de Custos](https://github.com/RodrigoPita02/Cost-Management-System)
 Um sistema de gestão de custos que permite o acompanhamento detalhado de despesas variáveis e fixas.
+
+### [Sistema de Planeamento/Agenda](https://github.com/RodrigoPita02/Weekly-Plan-System)
+Este projeto é um aplicativo de dashboard projetado para gerir eventos e agendamentos.
+
+### [AI Chat Bot](https://github.com/RodrigoPita02/AI-Chat-Bot)
+O projeto permite que os usuários enviem mensagens e recebam respostas do modelo GPT-3.5, tudo via uma interface de chat simples
 
 ## Conecte-se Comigo!
 
