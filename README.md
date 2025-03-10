@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia Informática c
   - Visual Studio, Android Studio, GitHub, Git, Docker, Postman
 - **Cloud & DevOps:** 
   - Azure
- - **Outras Competências:** 
+- **Outras Competências:** 
   - Testes Unitários, API RESTful, Segurança da Informação
 
 ## Projetos
