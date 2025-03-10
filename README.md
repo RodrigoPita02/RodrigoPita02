@@ -6,16 +6,22 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia Informática c
 
 - 🌱 Atualmente, estou a aprender sobre desenvolvimento web.
 - 💼 Estou à procura de oportunidades para aplicar as minhas habilidades técnicas em projetos reais.
-- 📫 Pode entrar em contacto comigo através do [rodrigomcpita@gmail.com].
+- 📫 Pode entrar em contacto comigo através de [rodrigomcpita@gmail.com].
 
 ## Habilidades
 
 - **Linguagens de Programação:** 
-  - Java, JavaScript, PHP, C, C++, C#
+  - C, C++, C#, Java, JavaScript, Python, Node.js, PHP
 - **Desenvolvimento Web:** 
-  - HTML, CSS, Node.js, MySQL
-- **Desenvolvimento de Aplicações:** 
-  - Android Studio, VSCode, .NET Framework,
+  - HTML, CSS, React.js, Angular, Vue.js
+- **Base de Dados:**
+  - MySQL, MongoDB, Firebase
+- **Ferramentas de Desenvolvimento:** 
+  - Visual Studio, Android Studio, GitHub, Git, Docker, Postman
+- **Cloud & DevOps:** 
+  - Azure
+ - **Outras Competências:** 
+  - Testes Unitários, API RESTful, Segurança da Informação
 
 ## Projetos
 
@@ -23,10 +29,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante de Engenharia Informática c
 Um sistema de gestão de custos que permite o acompanhamento detalhado de despesas variáveis e fixas.
 
 ### [Sistema de Planeamento/Agenda](https://github.com/RodrigoPita02/Weekly-Plan-System)
-Este projeto é um aplicativo de dashboard projetado para gerir eventos e agendamentos.
+Este projeto é projetado para gerir eventos e agendamentos.
 
 ### [AI Chat Bot](https://github.com/RodrigoPita02/AI-Chat-Bot)
-O projeto permite que os usuários enviem mensagens e recebam respostas do modelo GPT-3.5, tudo via uma interface de chat simples
+O projeto permite que os utilizadores enviem mensagens e recebam respostas do modelo GPT-3.5, tudo via uma interface de chat simples
 
 ## Conecte-se Comigo!
 
